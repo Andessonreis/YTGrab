@@ -26,6 +26,10 @@ pip install PySimpleGUI pytube
 
 Certifique-se de ter uma conexão de internet ativa ao baixar os vídeos do YouTube.
 
+## Print do projeto rodando
+![Captura de tela do script YTGrab](https://github.com/Andessonreis/YTGrab/blob/main/scriprum%20.png?raw=true)
+
+
 ## Observações
 
 - Se ocorrer algum erro durante o download, uma mensagem de erro será exibida.
